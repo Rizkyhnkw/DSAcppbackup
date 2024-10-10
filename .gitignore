@@ -1,0 +1,8 @@
+*.exe
+*.pdf
+*.docx
+*.dev
+*.layout
+*.txt
+*.zip
+.vscode/
